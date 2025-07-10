@@ -36,7 +36,7 @@ This repository contains a static web-based frontend showcasing AI-powered tools
 
 ## Live Demo 🌐
 
-Check out the live demo of the project [here](https://your-live-demo-url.com). Experience the frontend design in action!
+Check out the live demo of the project [here](https://four-card-feature-section-eight-psi.vercel.app/). Experience the frontend design in action!
 
 ## Screenshots 📸
 
