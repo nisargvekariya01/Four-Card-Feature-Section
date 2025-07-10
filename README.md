@@ -50,4 +50,4 @@ Check out the live demo of the project [here](https://your-live-demo-url.com). E
 
 Feel free to contribute! Please fork the repository and submit a pull request with your changes.
 
-## Made with ❤️ by [Nisarg Vekariya]()
+## Made with ❤️ by [Nisarg Vekariya](https://github.com/nisargvekariya01)
