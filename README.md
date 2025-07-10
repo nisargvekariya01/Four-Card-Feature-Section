@@ -21,11 +21,11 @@ This repository contains a static web-based frontend showcasing AI-powered tools
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   git clone https://github.com/nisargvekariya01/Four-Card-Feature-Section/tree/main
    ```
 2. Navigate to the project directory:
    ```bash
-   cd project-name
+   cd Four-Card-Feature-Section
    ```
 3. Open `index.html` in a web browser to view the application.
 
@@ -41,10 +41,10 @@ Check out the live demo of the project [here](https://your-live-demo-url.com). E
 ## Screenshots 📸
 
 ### Desktop View
-![Desktop Screenshot](preview_desktop.png)
+<img src="preview_desktop.png" alt="Desktop Screenshot" width=750px> <br>
 
 ### Mobile View
-![Mobile Screenshot](preview_mobile.png) *(Note: Placeholder image, replace with actual mobile screenshot)*
+<img src="preview_mobile.png" alt="Mobile Screenshot" width=375px> <br>
 
 ## Contributing 🤝
 
