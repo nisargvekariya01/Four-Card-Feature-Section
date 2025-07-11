@@ -21,7 +21,7 @@ This repository contains a static web-based frontend showcasing AI-powered tools
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nisargvekariya01/Four-Card-Feature-Section/tree/main
+   git clone https://github.com/nisargvekariya01/Four-Card-Feature-Section
    ```
 2. Navigate to the project directory:
    ```bash
